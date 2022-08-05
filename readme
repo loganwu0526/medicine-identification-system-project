@@ -1,0 +1,8 @@
+Run several .ipynb as follows:  
+
+1.Collect medicine images, ex.10~30 pcs.
+2.Run the Image_generate_ver2.ipynb, and change all root path.
+  [notes: Sometimes you should run again to avoid the error occurred.]
+3.Run the model.ipynb, and change all root path/medicine ID.  
+  [notes: Remeber you need to check the .h5 file is generated.]
+4.Run the medicine_project_ResNet, and change all root path/cam address.
